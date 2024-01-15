@@ -1,0 +1,26 @@
+{
+  "name": "symbol-didvc-service",
+  "version": "1.0.0",
+  "description": "did service on symbol that is a blockchain from nem ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lCyou/Symbol-did-service.git"
+  },
+  "keywords": [
+    "symbol"
+  ],
+  "author": "lcyou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lCyou/Symbol-did-service/issues"
+  },
+  "homepage": "https://github.com/lCyou/Symbol-did-service#readme",
+  "dependencies": {
+    "@helia/strings": "^2.0.1",
+    "helia": "^3.0.1"
+  }
+}
